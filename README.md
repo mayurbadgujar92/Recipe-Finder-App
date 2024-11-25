@@ -17,3 +17,10 @@ The Recipe Finder App is a web application that allows users to search for recip
 - React Player: React component for playing YouTube videos.
 - The Meal Database API: Provides recipe data for the app.
 
+#Output
+
+
+
+https://github.com/user-attachments/assets/4c9e63f8-941b-4c77-85a4-5b8c073c32be
+
+
